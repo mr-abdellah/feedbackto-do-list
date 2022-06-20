@@ -1,62 +1,50 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# # To-do-list
 
-> Description the project.
+In this project, we built a basic website about todo list 
 
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+# # Do you wanna try it ? no problem just enter here : (https://mr-abdellah.github.io/To-do-list/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Download it as a ZIP file
+or
 
-### Setup
+### Clone it in your local machine using GIT
+to get a local copy , clone the repository using git clone
+(https://github.com/mr-abdellah/To-do-list.git)
 
-### Install
+> Awesome books: plain JavaScript with objects and modules
 
-### Usage
+### Step to run the project after cloning :
 
-### Run tests
+- From your terminal :
+- Run this codes :
+-1- npm install
+-2- npm run build
+-3- npm start
 
-### Deployment
+## Built With
 
-
+- HTML
+- CSS
+- JavaScript
 
 ## Authors
 
-👤 **Author1**
+👤 **Abdellah Belkaid**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mr-abdellah](https://github.com/mr-abdellah)
+- Twitter: [@belkaiduus](https://twitter.com/belkaiduus)
+- LinkedIn: [belkaidus](https://linkedin.com/in/belkaidus)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,9 +52,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to anyone who's code/resource was used
 - Inspiration
-- etc
+- Microverse student community
 
 ## 📝 License
 
